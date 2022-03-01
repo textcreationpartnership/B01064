@@ -1,0 +1,363 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A comparison of the life of man, concerning how fickle his estate doth stand, flourishing like a tree, or vine, or dainty flower, or like a ship, or raine, that's turn'd each houre. To the tune of Sir Andrew Barton.</title>
+            <author>Crimsal, Richard.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1634</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01064</idno>
+            <idno type="STC">STC 5416</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.7[44]</idno>
+            <idno type="EEBO-CITATION">99891969</idno>
+            <idno type="PROQUEST">ocm99891969</idno>
+            <idno type="VID">182946</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01064)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182946)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:1[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A comparison of the life of man, concerning how fickle his estate doth stand, flourishing like a tree, or vine, or dainty flower, or like a ship, or raine, that's turn'd each houre. To the tune of Sir Andrew Barton.</title>
+                  <author>Crimsal, Richard.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>for Francis Coules,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>[1634?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "As I lay musing all alone ..."</note>
+                  <note>Signed: R.C. [i.e. Richard Crimsal].</note>
+                  <note>Publication date suggested by STC.</note>
+                  <note>In two parts; woodcut illustrations at head of each part.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="44" facs="tcp:182946:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 3 -->
+            <head>A compariſon of the life of Man,</head>
+            <argument>
+               <l>Concerning how fickle his eſtate doth ſtand,</l>
+               <l>Flouriſhing like a Tree, or Vine, or dainty flower,</l>
+               <l>Or like a ſhip, or raine, that's turn'd each houre,</l>
+            </argument>
+            <opener>To the tune of <hi>Sir Andrew Barton.</hi>
+            </opener>
+            <div n="1" type="part">
+               <p>
+                  <figure>
+                     <p>VENICE.</p>
+                     <p>LONDON.</p>
+                     <p>BRISTOW.</p>
+                  </figure>
+               </p>
+               <lg>
+                  <l>AS I lay muſing all alone,</l>
+                  <l>Great ſtore of things I thought vpon,</l>
+                  <l>And ſpecially of mans eſtate,</l>
+                  <l>And how hée's ſubject vnto fate.</l>
+               </lg>
+               <lg>
+                  <l>Firſt Ile compare him to a tree,</l>
+                  <l>Which you ſometimes all greene may ſée,</l>
+                  <l>But ſuddenly his leafes doe fall</l>
+                  <l>That he was beautify'd withall.</l>
+               </lg>
+               <lg>
+                  <l>The Trée likewiſe is knowne by's fruit</l>
+                  <l>Better then by his fine gréene ſute,</l>
+                  <l>He may ſhow comely to the eye,</l>
+                  <l>Yet his fruit may taſt bitterly.</l>
+               </lg>
+               <lg>
+                  <l>So men ſometimes make a faire ſhowe,</l>
+                  <l>All freſh and gréene they ſéeme to growe,</l>
+                  <l>But when the winter of griefe and thrall</l>
+                  <l>Doth on them ſeize, their gréene leaues fall.</l>
+               </lg>
+               <lg>
+                  <l>But for the difference of mens fruit,</l>
+                  <l>I muſt indéed be ſomething mute,</l>
+                  <l>But thoſe that grow like Cedars tall</l>
+                  <l>Yield little fruit or none at all.</l>
+               </lg>
+               <lg>
+                  <l>Yet doe they flouriſh freſh and gréene,</l>
+                  <l>Much like the pleaſant ſommer Quéene<g ref="char:punc">▪</g>
+                  </l>
+                  <l>They are bedect with fragrant flowers,</l>
+                  <l>And they doe dwell in ſtately Towers.</l>
+               </lg>
+               <lg>
+                  <l>But as the Tree is great and tall,</l>
+                  <l>The great and mightier is his fall:</l>
+                  <l>And as he falls, ſo doth he lye,</l>
+                  <l>Vntill the builder him apply.</l>
+               </lg>
+               <lg>
+                  <l>What though a man haue ſtore of wealth,</l>
+                  <l>It cannot him aſſure of health,</l>
+                  <l>By his fruits he muſt ſure be try'd,</l>
+                  <l>Either condemn'd or juſtify'd.</l>
+               </lg>
+               <lg>
+                  <l>Againe, a man is like a Vine,</l>
+                  <l>That from the earth doth fluoriſh fine,</l>
+                  <l>Adorn'd with natures ornament,</l>
+                  <l>With ſtore of Grapes to giue content.</l>
+               </lg>
+               <lg>
+                  <l>But with a knife, or ſuch a thing,</l>
+                  <l>The Vine is ſoone ſet a bléeding,</l>
+                  <l>And then thoſe Grapes will ſoone decay,</l>
+                  <l>And piningly will waſt away.</l>
+               </lg>
+               <lg>
+                  <l>Euen ſo ſtands the life of man,</l>
+                  <l>If that his blood from him be drawne,</l>
+                  <l>Then ſuddenly his life doth yield,</l>
+                  <l>And vnto death he is compell'd.</l>
+               </lg>
+               <lg>
+                  <l>Man flouriſheth euen like a flower,</l>
+                  <l>Which liues and dyes within an hours,</l>
+                  <l>He growes perhaps vntill his prime,</l>
+                  <l>Or he may dye in's budding time.</l>
+               </lg>
+               <lg>
+                  <l>He may chance liue till hée is old,</l>
+                  <l>And bide the brunt of Winters cold,</l>
+                  <l>But then hée'l loſe the ſmell and ſhew,</l>
+                  <l>And will no more be worth the view.</l>
+               </lg>
+               <lg>
+                  <l>So many men dye in their prime,</l>
+                  <l>And ſome dye in their budding time:</l>
+                  <l>But he that liues the longeſt life,</l>
+                  <l>Shall find but ſorrow, care, and ſtrife.</l>
+               </lg>
+               <lg>
+                  <l>Mans life is like a ſhip o'th Seas,</l>
+                  <l>Which is ſometimes as Fortune pleaſe,</l>
+                  <l>Euen as proud <hi>Boreas</hi> blaſts doe blow.</l>
+               </lg>
+               <lg>
+                  <l>When Winds are ſtill and weather's faire,</l>
+                  <l>Then Mariners are free from care;</l>
+                  <l>But when as ſtormes make dark the skye,</l>
+                  <l>Then muſt each man his labour plye.</l>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <pb n="45" facs="tcp:182946:1" rendition="simple:additions"/>
+               <!-- PDF PAGE 3 -->
+               <head>The ſecond part</head>
+               <opener>To the ſame tune.</opener>
+               <p>
+                  <figure/>
+               </p>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>SO is't with man the ſelfe ſame caſe,</l>
+                  <l>His life's a ſhip that ſeas doth trace,</l>
+                  <l>And oft is like to goe to wracke</l>
+                  <l>When winds and ſtorms doe tacklings crack.</l>
+               </lg>
+               <lg>
+                  <l>We men when ſickneſſe doth aſſaile</l>
+                  <l>Our bodyes, and makes vs looke pale,</l>
+                  <l>Then would we doe all things we may,</l>
+                  <l>So that our health we might enjoy.</l>
+               </lg>
+               <lg>
+                  <l>But when the Fates on vs doe ſmile,</l>
+                  <l>Like Saylers we forget our toyle.</l>
+                  <l>We hang out colours for a ſhow,</l>
+                  <l>But take them in when ſtormes doe grow.</l>
+               </lg>
+               <lg>
+                  <l>I may compare a man againe</l>
+                  <l>Euen like vnto a turning raine,</l>
+                  <l>That changeth euen as doth the wind,</l>
+                  <l>Indéed ſo is mans fickle mind.</l>
+               </lg>
+               <lg>
+                  <l>The mind of man doth often change,</l>
+                  <l>Hée's apt with euery gale to range,</l>
+                  <l>He ſtandeth tottering to and fro,</l>
+                  <l>Euen as his fooliſh fancies goe.</l>
+               </lg>
+               <lg>
+                  <l>Againe I may mans Life compare</l>
+                  <l>Like to a bird that flyes i'th aire,</l>
+                  <l>And ſuddenly ſhe ſées a bayt,</l>
+                  <l>Which is to take her with deceit.</l>
+               </lg>
+               <lg>
+                  <l>The bird no ſooner is betrayd,</l>
+                  <l>But comes me him that the bait layd,</l>
+                  <l>And hauing taken her in his Net,</l>
+                  <l>She dyes, and he for more doth bait.</l>
+               </lg>
+               <lg>
+                  <l>Euen ſo is man by running caught,</l>
+                  <l>When as thereof he hath no thought,</l>
+                  <l>He ſoareth high and feares no fail,</l>
+                  <l>Yet then hée's in moſt danger of all.</l>
+               </lg>
+               <lg>
+                  <l>Make tryall of this any one,</l>
+                  <l>And you ſhall find that I haue ſhowne</l>
+                  <l>A proſpect where you may behold</l>
+                  <l>The difference in this earthy mold.</l>
+               </lg>
+               <lg>
+                  <l>This life is fickle, fraile, and vaine,</l>
+                  <l>Seeke euerlaſting life to gaine.</l>
+                  <l>All worldly treaſures ſoone decay,</l>
+                  <l>And mortall man returnes to clay.</l>
+               </lg>
+               <lg>
+                  <l>Before thou dyeſt bid pride adieu,</l>
+                  <l>Which doth ſo often ſhape thee new,</l>
+                  <l>Call out for mercy with loud voice,</l>
+                  <l>And let her be thy onely choice.</l>
+               </lg>
+               <lg>
+                  <l>If thou haue liu'd in gluttony,</l>
+                  <l>Forgetting quite that thou ſhalt dye,</l>
+                  <l>Then quickly charity imbrace,</l>
+                  <l>That ſhe may plead well in thy caſe.</l>
+               </lg>
+               <lg>
+                  <l>If thou by couetouſneſſe haue liu'd,</l>
+                  <l>And haſt thy neighbours poore deceiu'd,</l>
+                  <l>Then ſuddenly reſtor't againe,</l>
+                  <l>For feare thou feele hells burning paine.</l>
+               </lg>
+               <lg>
+                  <l>Perchance in wrath thou haſt ſhed blood,</l>
+                  <l>Which wrath ſhould alwayes be withſtood,</l>
+                  <l>Yet arme thee with a patient heart,</l>
+                  <l>And neuer more act ſuch a part.</l>
+               </lg>
+               <lg>
+                  <l>If thou haſt enuy'd at thy brother,</l>
+                  <l>Repent with ſpeed, that blacke ſinne ſmother,</l>
+                  <l>And let true loue be thy delight,</l>
+                  <l>Thou mayſt depart with life this night.</l>
+               </lg>
+               <lg>
+                  <l>If thou haſt ſlothfull beene, and lewd,</l>
+                  <l>Neglecting Gods moſt holy word,</l>
+                  <l>Apply thy ſelfe moſt ſpeedily,</l>
+                  <l>Redeeme thy time ſpent idly.</l>
+               </lg>
+               <lg>
+                  <l>If thou laſciuious haſt beene giuen;</l>
+                  <l>Dóe ſo no more, but pray to heauen,</l>
+                  <l>That hateful sinne God may forgiue,</l>
+                  <l>Chaſtiſe thy ſelfe, repent, and grieue.</l>
+               </lg>
+               <lg>
+                  <l>Thus to conclude, let me intreat</l>
+                  <l>All thoſe that heare what I relate,</l>
+                  <l>That they ſeeke heauens grace to find,</l>
+                  <l>And alwayes heare an vpright mind.</l>
+               </lg>
+            </div>
+            <closer>
+               <signed>R.C.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at London for <hi>Francis Coules</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
